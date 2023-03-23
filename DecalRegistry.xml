@@ -1,0 +1,20 @@
+<decals>
+
+  <decal path="w441/fg/overworld/">
+    <solid safe="true" x="-8" y="-8"/>
+  </decal>
+
+  <!-- pipe stuff -->
+  <decal path="w441/fg/overworld/pipe">
+    <solid safe="true" x="-16" y="-8" width="32"/>
+  </decal>
+  <decal path="w441/fg/overworld/pipe-opening">
+    <solid safe="true" x="-16" y="-8" width="32"/>
+  </decal>
+
+  <decal path="w441/fg/overworld/question-block_">
+    <solid safe="true" x="-8" y="-8"/>
+    <animationSpeed value="6"/>
+  </decal>
+
+</decals>
